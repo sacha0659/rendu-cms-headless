@@ -1,6 +1,6 @@
 <template>
   <div class="md:flex md:items-center md:justify-between p-5 ">
-    <div class="flex-1 min-w-0" @click="goTo('App')">
+    <div class="flex-1 min-w-0" @click="goTo('home')">
       <img src="https://www.instagram.com/static/images/web/mobile_nav_type_logo-2x.png/1b47f9d0e595.png" alt="">
     </div>
       <div v-if="user_data.role">

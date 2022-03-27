@@ -65,6 +65,7 @@ export default {
       });
       if (user) {
         this.setUser(user);
+        this.$router.push({name: "home"})
       }
       else if (error) {
         console.log(error);
