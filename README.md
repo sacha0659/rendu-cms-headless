@@ -1,4 +1,4 @@
-# rendu-iim-a3-alt-1
+# rendu-cms-headless
 
 ## Project setup
 ```
@@ -10,15 +10,9 @@ pnpm install
 pnpm run serve
 ```
 
-### Compiles and minifies for production
-```
-pnpm run build
-```
+### To Sign In : 
 
-### Lints and fixes files
 ```
-pnpm run lint
+email : sachagaleuzzi@gmail.com 
+password : test1234
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
